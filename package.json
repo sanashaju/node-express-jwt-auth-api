@@ -24,6 +24,7 @@
     "morgan": "^1.10.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.11"
+    "nodemon": "^3.1.11",
+    "swagger-autogen": "^2.23.7"
   }
 }

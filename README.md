@@ -84,10 +84,10 @@ npm install
 PORT=9002
 
 # Database name
-DATABASE=node-express-jwt-auth-api-dev
+DATABASE=Mini-Rest-API-DB
 
 # MongoDB Connection URI
-MONGO_URI=mongodb+srv://sana:root123@mycluster.pzvjxqd.mongodb.net/
+MONGO_URI=mongodb+srv://<USERNAME>:<PASSWORD>@<CLUSTER>.mongodb.net/
 
 # JWT Secret Key for Authentication
 JWT_SECRET=this_is_my_secret
